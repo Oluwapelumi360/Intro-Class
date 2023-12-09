@@ -1,0 +1,61 @@
+body{
+    background-color: rgba(0, 0, 0, 0.582);
+    color: white;
+    text-align: center;
+    padding: 0% 10%;
+    font-size: large;
+    background-image: url("../download\ \(1\).jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;    
+    margin: 0;
+}
+
+.talk-to-me{
+    font-size: large;
+    padding: 20px;
+}
+.them{
+    color: blue;
+}
+ul li{
+    list-style: none
+}
+header{
+    background-color: rgba(160, 160, 160, 0.199);    
+    padding: 10px;
+    border: 2px solid black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#everyone{
+    text-align: left;
+    padding: 0% 5%;
+}
+.just-contact{
+    font-size: larger;
+}
+.gallery{
+    position: relative;
+}
+#site-image{
+    position: fixed;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.747);
+    padding: 30px;
+    text-align: left;
+    max-width: 400px;
+}
+input, textarea, select{
+    width: 80%;
+    border: 1px solid white;
+}
+button{
+    background-color: green;
+    width: 83%;
+ ;   padding: 10px;
+}
